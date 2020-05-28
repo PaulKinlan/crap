@@ -1,0 +1,10 @@
+---
+slug: test
+date: 2020-05-28T20:34:10.762Z
+title: test
+link: ''
+tags: [links]
+---
+
+<figure><img src="/images/2020-05-28-test-0.jpeg" alt="2020-05-28-view-source-for-safari-on-ios-with-shortcuts-0.jpeg"></figure>
+
